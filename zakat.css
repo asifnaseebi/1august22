@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-image: url(camal2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%px;
+height: 100vh;
+}
+h1{font-size: 40px;
+color: rgb(82, 9, 9);
+font-style: unset;
+}
+h2{
+    color: red;
+  font-size: 30px;
+}
+button{
+    margin-top: 10px;
+    border-radius: 20px;
+   font-size: 17px;
+}
+
+h3{
+    background-size: auto;
+color: rgb(46, 10, 247);
+text-decoration:underline rgb(0, 1, 14);
+font-size: 21px ;
+    }
+    input{
+ font-size: 20px;
+    }
